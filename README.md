@@ -10,7 +10,7 @@ Pre-requisites
 
 How to run the project
 ======================
-- Run the following command inside the codetest folder to build the application and deploy in tomcat 7
+- Run the following command inside the codetest folder to build, test and deploy the application in tomcat 7
 
   mvn clean compile install tomcat7:run
 
